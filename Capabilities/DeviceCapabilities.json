@@ -1,0 +1,14 @@
+[
+{
+"deviceName":"Moto E3 POWER",
+"appPackage":"io.appium.android.apis",
+"appActivity":"io.appium.android.apis.ApiDemos",
+"platformName":"Android"
+},
+{
+"deviceName":"One plus",
+"appPackage":"io.appium.android.apis",
+"appActivity":"io.appium.android.apis.ApiDemos",
+"platformName":"Android"
+}
+]
